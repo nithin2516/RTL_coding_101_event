@@ -66,4 +66,8 @@ DERIVED GATES
 ![image](https://github.com/user-attachments/assets/f944a2c4-ad07-41b1-83f4-c52a9701ea45)
 
 
+ RESPONSE 
+
+
+ ![image](https://github.com/user-attachments/assets/147c23d9-e7d9-44a0-839e-d6231c630169)
 
