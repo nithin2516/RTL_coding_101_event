@@ -7,4 +7,5 @@ TODAY I HAVE IMPLEMENTED THE VECTOR CONCEPTS IN HDL BITS
 ![VECTORR](https://github.com/user-attachments/assets/e7a9a4f7-f6f7-4223-9826-dd310c0d9e57)
 ![VECTOR 5](https://github.com/user-attachments/assets/86b4cc1a-a270-4331-aca8-9ec0c9f9c97e)
 ![VECTOR 4](https://github.com/user-attachments/assets/04f40b14-0b63-46ea-b4c1-c4174d11e1c2)
-![VECTOR 1](https://github.com/user-attachments/assets/43003745-8f97-4a56-8fe5-6d59a44cdec3)
+![VECTOR 1](https://github.com/user-attachments/assets/7fcdfce6-d050-4844-95d2-f362667b818d)
+
